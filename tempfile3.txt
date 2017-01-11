@@ -1,0 +1,4 @@
+22222 LOOOOG LOOOOG
+3333 Some new in file
+
+Some some in third time after remove from staging index
